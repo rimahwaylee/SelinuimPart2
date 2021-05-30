@@ -1,0 +1,1 @@
+docker-compose -f dockercomposev1.yml up >>out.txt
